@@ -58,7 +58,8 @@ https://static1.squarespace.com/static/592cdfd3e6f2e1b24180305b/t/6138bd68550327
 https://static1.squarespace.com/static/592cdfd3e6f2e1b24180305b/t/6138bd8b73e4b665bb4cec05/1631108498965/AUSNET+Droplet+-+Growatt+Quick+Reference+Guide+V2.0.pdf
 - Supports Droplet connectivity to Internet via Wifi or Ethernet
 - Haptics on the device - surveillance opportunities?
-- QR code-based authentication for installation
+- QR code-based authentication for installation - same QR code for every instance? If not, could be guessed/brute-forced?
+- Can the app QR code reader be poisoned with a malicious QR code?
 - Add/invite end customers - persistence?
 
 https://static1.squarespace.com/static/592cdfd3e6f2e1b24180305b/t/5ca1407c24a6942251dd221c/1554071681513/Droplet+Industrial+v1+Brochure.pdf
@@ -68,14 +69,26 @@ https://static1.squarespace.com/static/592cdfd3e6f2e1b24180305b/t/5ca1407c24a694
 
 https://static1.squarespace.com/static/592cdfd3e6f2e1b24180305b/t/62d9f86a685636426094d565/1658452076223/Droplet+ONE+%7C+PLUS+info+sheet+2022+FINAL.pdf
 - Droplet One vs Droplet Plus (enables 4G connectivity)
-- 
-
 ![image](https://user-images.githubusercontent.com/114399784/205427201-e09a4638-e0df-42c7-a9ed-da88b631dca7.png)
 
 https://static1.squarespace.com/static/592cdfd3e6f2e1b24180305b/t/5f56ea31020c314b1f095f72/1599531590809/Droplet+Quick+Installation+Guide.pdf
+- Older versions of SwitchDin app may be available from third party sites such as apkpure.com
 https://static1.squarespace.com/static/592cdfd3e6f2e1b24180305b/t/5ca1403eec212db2221a08be/1554071617602/Droplet+Resi+v1.6+Brochure.pdf
+- Remote State of Charge management
+- VPP, AEMO, and NSP integration via StormCloud
+- "Remote self-managed firmware upgrades using StormCloud platform" - very cool, maybe I can upload meterpreter.sh onto the device?
+- "Factory fitted with X.509 certificates" - very cool - so same self-signed certificate for every Droplet device?
+- "Data logging, data repair and maintenance minimises data loss" - syslog or proprietary format? Supports forwarding? In operation likely to be disabled to save storage and processing
+
 https://static1.squarespace.com/static/592cdfd3e6f2e1b24180305b/t/5ff262a30493bd2827584e6e/1609720484842/Droplet+Resi+v1.7+Brochure+%281%29.pdf
+- Basically same as 1.6 information
+
 https://www.originenergy.com.au/wp-content/uploads/InstallManual-SI-SwitchDinInstallguide-B-IM013.pdf
+- Residential droplet likes up to 40 degrees, industrial Dropet likes up to 60
+- So to achieve Impact, just hog compute and persistently overheat device (no in-built fan)
+- Requires connecting all inverters in same network to Droplet, which is effectively an Internet gateway. So violates Critical Control 2 (Defensible Architecture) because no segmentation/zones
+- TBC
+
 https://energycentral.com/system/files/ece/nodes/483948/is_2030.5_the_der_protocol.pdf
 https://www.energy.vic.gov.au/__data/assets/pdf_file/0038/591959/Microgrid-Demonstration-Initiative-Origin-final-report.pdf
 
