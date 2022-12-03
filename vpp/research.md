@@ -67,6 +67,11 @@ https://static1.squarespace.com/static/592cdfd3e6f2e1b24180305b/t/5ca1407c24a694
 - "Connects	to	SwitchDin	StormCloud	platform	for advanced	predictive	and	fleet-wide	control	functions for	 aggregation" - CnC
 
 https://static1.squarespace.com/static/592cdfd3e6f2e1b24180305b/t/62d9f86a685636426094d565/1658452076223/Droplet+ONE+%7C+PLUS+info+sheet+2022+FINAL.pdf
+- Droplet One vs Droplet Plus (enables 4G connectivity)
+- 
+
+![image](https://user-images.githubusercontent.com/114399784/205427201-e09a4638-e0df-42c7-a9ed-da88b631dca7.png)
+
 https://static1.squarespace.com/static/592cdfd3e6f2e1b24180305b/t/5f56ea31020c314b1f095f72/1599531590809/Droplet+Quick+Installation+Guide.pdf
 https://static1.squarespace.com/static/592cdfd3e6f2e1b24180305b/t/5ca1403eec212db2221a08be/1554071617602/Droplet+Resi+v1.6+Brochure.pdf
 https://static1.squarespace.com/static/592cdfd3e6f2e1b24180305b/t/5ff262a30493bd2827584e6e/1609720484842/Droplet+Resi+v1.7+Brochure+%281%29.pdf
