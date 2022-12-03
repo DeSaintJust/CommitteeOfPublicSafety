@@ -2,8 +2,14 @@ Attack Surfaces of Virtual Power Plants
 
 Crown Jewels Analysis...
 
-References:
+Frame in terms of the Dragos 5 Critical Controls
+1. ICT-specific Incident Response Plan
+2. Defensible Architecture
+3. Visibility and Monitoring
+4. Secure Remote Access
+5. Key Vulnerability Management
 
+References:
 https://arxiv.org/pdf/1907.07455.pdf
 https://www.adambarth.com/papers/2011/huang-chen-barth-rescorla-jackson.pdf
 https://www.coned.com/-/media/files/coned/documents/our-energy-future/our-energy-projects/distributed-system-implementation-plan.pdf
