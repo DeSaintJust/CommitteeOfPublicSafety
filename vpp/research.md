@@ -26,6 +26,7 @@ https://dataint.s3.amazonaws.com/media/resources/EnelX--BrianAsparro--6-27-19--R
 https://www.energizeinnovation.fund/sites/default/files/2021-10/Vincent_Schachter_Enel-EPIC-Reliability-20210616.pdf
 
 Lightbend
+
 https://doc.akka.io/docs/akka/2.1/Akka.pdf
 https://assets.ctfassets.net/sb23478ri4a9/1LVII3BSyhtTxeLRmhBary/d0817c39c594358e2a26d6e4fb587f36/akka-intro-training-public-220323102128.pdf
 https://doc.akka.io/docs/akka/2.4/AkkaJava.pdf
@@ -35,6 +36,7 @@ https://growenergy.com.au/assets/media/Redback-Smart-HYBRID-Battery-User-Manual.
 https://poblliving.co.uk/wp-content/uploads/2019/09/Sonnen-Battery-Operating-Instructions.pdf
 
 SwitchDin
+
 https://assets.cleanenergycouncil.org.au/documents/events/WACEF-2019/4-Andrew-Mears.pdf
 https://static1.squarespace.com/static/592cdfd3e6f2e1b24180305b/t/6138bd68550327256e5a8d4e/1631108459969/AUSNET+Droplet+-+Fronius+Quick+Reference+Guide+V2.0.pdf
 https://static1.squarespace.com/static/592cdfd3e6f2e1b24180305b/t/6138bd8b73e4b665bb4cec05/1631108498965/AUSNET+Droplet+-+Growatt+Quick+Reference+Guide+V2.0.pdf
@@ -53,6 +55,7 @@ https://static1.squarespace.com/static/592cdfd3e6f2e1b24180305b/t/605348e1119d78
 https://static1.squarespace.com/static/592cdfd3e6f2e1b24180305b/t/5d3630773ca1a0000166b00c/1563832442051/Utility+Resi+Droplet+Brochure+v1.0+(1).pdf
 
 Tesla
+
 https://fileservice.eea.comacloud.net/FileService.Api/file/FileRoom/14558058
 https://santabarbaraca.gov/sites/default/files/filesync/Advisory_Groups/Architectural_Board_of_Review/Archive/2022_Archives/03_Architectural_Drawings/2022-03-28_March_28_2022_1150_San_Roque.pdf
 https://www.osti.gov/servlets/purl/1873633
