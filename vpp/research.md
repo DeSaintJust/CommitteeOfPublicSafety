@@ -100,6 +100,8 @@ https://static1.squarespace.com/static/592cdfd3e6f2e1b24180305b/t/5d3630773ca1a0
 Tesla
 
 https://fileservice.eea.comacloud.net/FileService.Api/file/FileRoom/14558058
+- Megapack integrates the site controller
+
 https://santabarbaraca.gov/sites/default/files/filesync/Advisory_Groups/Architectural_Board_of_Review/Archive/2022_Archives/03_Architectural_Drawings/2022-03-28_March_28_2022_1150_San_Roque.pdf
 https://www.osti.gov/servlets/purl/1873633
 https://conference.hitb.org/hitbsecconf2021ams/materials/D1T2%20-%20X-in-the-Middle%20-%20Attacking%20Fast%20Charging%20Piles%20and%20Electric%20Vehicles%20-%20Wu%20HuiYu%20&%20Li%20Yuxiang.pdf
