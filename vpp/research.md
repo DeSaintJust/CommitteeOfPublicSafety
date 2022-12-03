@@ -103,6 +103,7 @@ https://fileservice.eea.comacloud.net/FileService.Api/file/FileRoom/14558058
 - Megapack integrates the site controller
 - Integrated thermal monitoring and management (HVAC) along with breakers - Tesla equipment or third party? Search for any mention of Schneider etc in Tesla tech docs
 - Where there's lithium-ion batteries there's a target
+- UL9540A: Test Method for Evaluating Thermal Runaway Fire Propagation in Battery Energy Storage Systems
 
 https://santabarbaraca.gov/sites/default/files/filesync/Advisory_Groups/Architectural_Board_of_Review/Archive/2022_Archives/03_Architectural_Drawings/2022-03-28_March_28_2022_1150_San_Roque.pdf
 https://www.osti.gov/servlets/purl/1873633
