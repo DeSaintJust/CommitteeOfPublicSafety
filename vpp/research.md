@@ -69,3 +69,4 @@ https://www.solarcutters.com/wp-content/uploads/2018/07/Tesla_Powerpack-System_M
 https://www.parliament.wa.gov.au/Parliament/commit.nsf/luInquiryPublicSubmissions/D5DFC19A737521D04825827F00261070/$file/20180413%20-%20MAT%20-%20Sub%20No.%2011%20-%20Tesla.pdf
 https://www.tesla.com/sites/default/files/pdfs/en_US/Tesla-SCE-Powerpack%20Case%20Study-2017.pdf
 https://energycentral.com/system/files/ece/nodes/435099/virtual_resources.pdf
+https://www.infoq.com/presentations/tesla-vpp/
