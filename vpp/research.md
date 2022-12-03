@@ -3,7 +3,7 @@ Attack Surfaces of Virtual Power Plants
 Crown Jewels Analysis...
 
 Frame in terms of the Dragos 5 Critical Controls
-1. ICT-specific Incident Response Plan
+1. ICS-specific Incident Response Plan
 2. Defensible Architecture
 3. Visibility and Monitoring
 4. Secure Remote Access
